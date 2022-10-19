@@ -1,11 +1,6 @@
-# MPRn_Tugas1_nim
-### Nama
-### Nim
-### MPR n
+# MPR2_Tugas1_191401102
+### Niko Dharmawan
+### 191401102
+### MPR 2
 
-#### Buatlah aplikasi android yang memiliki: 
-- Button, 
-- Textview, 
-- EditText.
-
-> Screenshot tampilan dimasukkan dalam readme
+![alt text](https://drive.google.com/file/d/1GUwtrF7cite1B18TwqpJEEtCSkBZdv7P/view?usp=sharing)
