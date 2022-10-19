@@ -3,4 +3,4 @@
 ### 191401102
 ### MPR 2
 
-![alt text](https://drive.google.com/file/d/1GUwtrF7cite1B18TwqpJEEtCSkBZdv7P/view?usp=sharing)
+![alt text](https://ibb.co/Lpg2Jjd)
