@@ -1,8 +1,7 @@
-# MPRn_Tugas2_nim
-### Nama
-### Nim
-### MPR n
+# MPR3_Tugas1_191401102
+### Niko Dharmawan
+### 191401102
+### MPR 3
 
-
-#### Buatlah aplikasi android yang dapat mengrim objek activity lain dan memiliki implisit intent.
-> Screenshot tampilan dimasukkan dalam readme
+![alt text](https://github.com/NikoDhrmwn/MPR/blob/master/Tugas2/LabMPR02a.PNG)
+![alt text](https://github.com/NikoDhrmwn/MPR/blob/master/Tugas2/LabMPR02b.PNG)
