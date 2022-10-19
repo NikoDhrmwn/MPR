@@ -3,4 +3,4 @@
 ### 191401102
 ### MPR 2
 
-![alt text](Tugas1/LabMPR01.PNG)
+![alt text](https://github.com/NikoDhrmwn/MPR/blob/master/Tugas1/LabMPR01.PNG)
