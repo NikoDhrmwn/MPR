@@ -3,4 +3,4 @@
 ### 191401102
 ### MPR 2
 
-![alt text](https://ibb.co/Lpg2Jjd)
+![alt text](Tugas1/LabMPR01.PNG)
