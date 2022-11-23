@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">labmpr4</string>
+
+    <string-array name="anime_name">
+        <item>anime1</item>
+        <item>anime2</item>
+        <item>anime3</item>
+        <item>anime4</item>
+        <item>anime5</item>
+    </string-array>
+    <string-array name="anime_description">
+        <item>deskripsi 1</item>
+        <item>deskripsi 2</item>
+        <item>deskripsi 3</item>
+        <item>deskripsi 4</item>
+        <item>deskripsi 5</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/usu</item>
+        <item>@drawable/usu</item>
+        <item>@drawable/usu</item>
+        <item>@drawable/usu</item>
+        <item>@drawable/usu</item>
+    </integer-array>
+
+</resources>
